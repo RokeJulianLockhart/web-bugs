@@ -1,37 +1,45 @@
 ---
-name: Webcompat Bug report
+name: Webcompat Bug Report
 about: Create a report to help us improve
-title: domain name - very short summary
+title: domain name – a very short summary
 labels: status-needsinfo-oana, status-needsinfo-sergiu, status-needsinfo-cipriansv
 assignees: ''
-
 ---
 
-**URL**:
+#### URL
 
-**Browser/Version**:
 
-**Operating System**:
 
-**What seems to be the trouble?(Required)**
-- [ ] Desktop site instead of mobile site
+#### Browser/Version
+
+
+
+#### Operating System
+
+
+
+#### What The Problem Is <!-- (Required) -->
+
+- [ ] Desktop site, instead of mobile site
 - [ ] Mobile site is not usable
 - [ ] Video doesn't play
 - [ ] Layout is messed up
 - [ ] Text is not visible
-- [ ] Something else (Add details below)
+- [ ] Something else <!-- (Add details below) -->
 
-**Steps to Reproduce**
+#### Steps To Reproduce
 
-1. Navigate to: (*site url*)
-2. *Any additional steps to be taken*
+1. <!-- Navigate to: (*site url*) -->
+  
+2. <!-- Any additional steps to be taken -->
 
-*__Expected Behavior:__*
-
-
-*__Actual Behavior:__*
+#### Expected Behavior
 
 
-**Screenshot**
+#### Actual Behavior
 
-![Add Screenshot](https://your/screenshot/url/here.png "Screenshot Descriptions")
+
+#### Screenshot
+
+<!-- ![Add Screenshot](https://your/screenshot/url/here.png "Screenshot Descriptions") -->
+
